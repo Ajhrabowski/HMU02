@@ -3,10 +3,10 @@ Marketing agency: 02 challenge homework assignment,
 
 ## Description
 
-- This project is a activity for my secont week of the MSU Bootcamp Coarse.
+- This project is a activity for my second week of the MSU Bootcamp Coarse.
 - I had to refactor an existing site to make it more accessible.
 - I learned so much trying to figure things out like placing images and why a link wasn't working.
-- Steps that got me there were creating a new repository on GitHub account and clone it.
+- Steps that got me there were creating a new repository on GitHub account and cloning it.
 - Redoing the website, using the git add, git commit, and git push commands to save and push the code to the GitHub repository.
 - Last but not least deploying it and making it live.
 
